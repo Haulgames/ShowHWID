@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowHWID", "ShowHWID\ShowHWID.csproj", "{B6BE79AF-F347-4432-99C4-3CC1290B3E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BE79AF-F347-4432-99C4-3CC1290B3E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BE79AF-F347-4432-99C4-3CC1290B3E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BE79AF-F347-4432-99C4-3CC1290B3E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BE79AF-F347-4432-99C4-3CC1290B3E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927F01ED-EE07-4E4B-94B3-E676ADC398E4}
+	EndGlobalSection
+EndGlobal
