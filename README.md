@@ -1,6 +1,6 @@
 # ShowHWID
 
-This is Program, which show your HWID(your PC). 
+This is Program, which show HWID(your PC). 
 
 It's very easy code to show HWID!!!
 
