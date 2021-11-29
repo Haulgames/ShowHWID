@@ -2,7 +2,7 @@
 
 This is Program, which show HWID(your PC). 
 
-It's very easy code to show HWID!!!
+It's very easy code!!!
 
 Good Luck with programming in Csharp
 
